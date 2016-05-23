@@ -145,7 +145,7 @@ Together we are going to look at our good friend Barry's purposal for his
 website. Barry has been so gracious to provide us with what he wants to be
 included on his website. Since Barry has spent his entire life practicing the
 ancient art of 'cutting up meat', he is not a technology oriented guy. Let's
-help out of good friend Barry!
+help out our good friend Barry!
 
 First, we are going to great a branch to create Barry's website.
 
